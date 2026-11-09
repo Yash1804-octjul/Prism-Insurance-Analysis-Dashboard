@@ -63,8 +63,6 @@ The report also includes drill-through functionality to support more detailed an
 
 ## Dashboard Preview
 
-Add your dashboard screenshots to this repository and display them here:
-
 ![Insurance Overview](https://github.com/user-attachments/assets/9ba621cf-a7d1-450c-9b5b-5212310e1256)
 
 ![Policy Details](https://github.com/user-attachments/assets/fb578923-b042-407e-a2f1-e66bcc8f6743)
